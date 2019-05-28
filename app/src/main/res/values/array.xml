@@ -1,0 +1,47 @@
+<resources>
+    <string-array name="category_value">
+        <item>Popular Movies</item>
+        <item>Top Rated Movies</item>
+        <item>Upcoming Movies</item>
+        <item>Now Playing Movies</item>
+    </string-array>
+
+    <string-array name="category">
+        <item>100</item>
+        <item>200</item>
+        <item>300</item>
+        <item>400</item>
+    </string-array>
+
+    <string-array name="soft_by_value">
+        <item>Release Date</item>
+        <item>Rating</item>
+    </string-array>
+
+    <string-array name="soft_by">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+
+    <string-array name="about">
+        <item>Discover the best movies</item>
+        <item>Discover the best movies</item>
+        <item>View details of the movie</item>
+        <item>Manage your favourite movies</item>
+        <item>Set reminder for the movies</item>
+        <item>Manage your profiles</item>
+        <item>View all cinema nearby</item>
+    </string-array>
+
+    <string-array name="about_icon">
+        <item>about_01</item>
+        <item>about_02</item>
+        <item>about_03</item>
+        <item>about_04</item>
+        <item>about_05</item>
+        <item>about_06</item>
+        <item>about_07</item>
+    </string-array>
+
+
+</resources>
